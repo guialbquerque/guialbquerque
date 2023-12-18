@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guialbquerque 
 - 👀 I’m interested in a career as Data Scientist 
-- 🌱 I’m currently learning MySQL and Python, I'm doing some projects to train my skills in exploration and analysis of data, making whole storytelling and pipeline
 - 📫 How to reach me: guialbquerque@gmail.com 
 
 <!---
